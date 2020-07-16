@@ -1,2 +1,2 @@
 # InsertionSort
-Isertion sort Algorithm on Java 
+My sorting Algorithms on Java 
